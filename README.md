@@ -21,7 +21,7 @@
 <div id="principal">
 <div id="visor">
    <img src='foto1.jpg' alt='1. Limpiador para baño con cloro y anti hongo Multi Cleaner' name='fotoVisor'/>
-   <div id="titulo">1. Pirámides de Guiza</div>
+   <div id="titulo">1. Limpiador para baño con cloro y anti hongo Multi Cleaner</div>
    </div>
 </div>
 </body>
